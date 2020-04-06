@@ -1,3 +1,46 @@
 html{
-    background-color: blueviolet;
+    background-color : #D3D3D3;
+}
+
+header {
+    width:1024px;
+    padding:40px;
+    margin:auto;
+    background-color: pink;
+    text-align: center;
+    }
+
+h1{
+    color: white;
+}
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+h3 {
+    color: black;
+    font-size: 25px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+body {
+    width:1024px;
+    padding:40px;
+    margin:auto;
+    background-color: white;
+    text-align: left;
+
+}
+
+.paragraphe {
+    width: 500;
+        margin:left;
+        padding-left: 10px;
+    background-color:white;
+    text-align:left;
+    text-align: justify;
+    color:rgb(128,128,128);
 }
